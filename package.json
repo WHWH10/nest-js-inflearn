@@ -26,14 +26,20 @@
     "@nestjs/config": "^0.6.3",
     "@nestjs/core": "^7.6.15",
     "@nestjs/platform-express": "^7.6.15",
+    "@nestjs/swagger": "^4.8.2",
     "@types/morgan": "^1.9.2",
     "morgan": "^1.10.0",
+    "nest-logger": "^7.0.0",
     "nest-morgan": "^2.0.0",
     "nest-winston": "^1.5.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^6.6.6",
-    "winston": "^3.3.3"
+    "s3-streamlogger": "^1.7.0",
+    "swagger-ui-express": "^4.1.6",
+    "typeorm-model-generator": "^0.4.5",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.5.5"
   },
   "devDependencies": {
     "@nestjs/cli": "^7.6.0",
